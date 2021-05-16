@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fav-artist-albums/static/css/main.5e2d8c56.chunk.css",
+    "main.js": "/fav-artist-albums/static/js/main.1da004af.chunk.js",
+    "main.js.map": "/fav-artist-albums/static/js/main.1da004af.chunk.js.map",
+    "runtime-main.js": "/fav-artist-albums/static/js/runtime-main.c87fa86f.js",
+    "runtime-main.js.map": "/fav-artist-albums/static/js/runtime-main.c87fa86f.js.map",
+    "static/css/2.cf593ccf.chunk.css": "/fav-artist-albums/static/css/2.cf593ccf.chunk.css",
+    "static/js/2.3fe980f1.chunk.js": "/fav-artist-albums/static/js/2.3fe980f1.chunk.js",
+    "static/js/2.3fe980f1.chunk.js.map": "/fav-artist-albums/static/js/2.3fe980f1.chunk.js.map",
+    "static/js/3.ec02ce93.chunk.js": "/fav-artist-albums/static/js/3.ec02ce93.chunk.js",
+    "static/js/3.ec02ce93.chunk.js.map": "/fav-artist-albums/static/js/3.ec02ce93.chunk.js.map",
+    "index.html": "/fav-artist-albums/index.html",
+    "static/css/2.cf593ccf.chunk.css.map": "/fav-artist-albums/static/css/2.cf593ccf.chunk.css.map",
+    "static/css/main.5e2d8c56.chunk.css.map": "/fav-artist-albums/static/css/main.5e2d8c56.chunk.css.map",
+    "static/js/2.3fe980f1.chunk.js.LICENSE.txt": "/fav-artist-albums/static/js/2.3fe980f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c87fa86f.js",
+    "static/css/2.cf593ccf.chunk.css",
+    "static/js/2.3fe980f1.chunk.js",
+    "static/css/main.5e2d8c56.chunk.css",
+    "static/js/main.1da004af.chunk.js"
+  ]
+}
