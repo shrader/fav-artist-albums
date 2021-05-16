@@ -8,8 +8,6 @@ function Navbar({ artistName, artistLink, setCurrArtist }) {
   function handleChange(e) {
     const { value } = e.target;
     setInputValue(value);
-    // eslint-disable-next-line no-console
-    console.log(value);
   }
 
   // set the currArtist to what was submitted in the input then clear the input

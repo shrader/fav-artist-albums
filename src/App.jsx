@@ -5,7 +5,8 @@ import Api from './Api';
 import Loading from './Loading';
 
 function App() {
-  const DEFAULT_ARTIST = 'imaginedragons';
+  // defualt to be used as my 'favorite artist' don't know if I'd say favorite but I enjoy them
+  const DEFAULT_ARTIST = 'Imagine Dragons';
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(false);
   const [currArtist, setCurrArtist] = useState(DEFAULT_ARTIST);
