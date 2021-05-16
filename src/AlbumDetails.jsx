@@ -1,17 +1,8 @@
 import React from 'react';
 import './AlbumDetails.css';
+import formatDate from './helperFunctions';
 
 function AlbumDetails({ albumData }) {
-  // date comes in format "2012-01-01T08:00:00Z" (year-month-day-Time)
-  // convert to month-day-year
-  function formatDate(dateString) {
-    // split on "T or , or space"
-    const regex = /(T|,| )+/;
-    const formattedDateArr = dateString.split(regex);
-    const [year, month, day] = formattedDateArr[0].split('-');
-    return `${month}-${day}-${year}`;
-  }
-
   return (
     <div className="album-section">
       <div className="card mb-3">

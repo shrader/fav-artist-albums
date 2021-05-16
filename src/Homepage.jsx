@@ -1,6 +1,7 @@
 import React from 'react';
 import AlbumList from './AlbumList';
 import Navbar from './Navbar';
+import InvalidError from './InvalidError';
 import './Homepage.css';
 
 function Homepage({ artistAlbumData, setCurrArtist, error }) {
@@ -14,7 +15,7 @@ function Homepage({ artistAlbumData, setCurrArtist, error }) {
         setCurrArtist={setCurrArtist}
       />
       <h1 className="main-title">Favorite Artist Albums</h1>
-      {error && <p>Invalid input check spelling and try again</p> }
+      {error && <InvalidError /> }
       <AlbumList artistAlbumData={artistAlbumData} />
     </div>
   );
