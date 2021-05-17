@@ -19,6 +19,7 @@
     ],
     "rules": {
         "react/prop-types": "off",
-        "import/no-named-as-default": 0
+        "import/no-named-as-default": 0,
+        "linebreak-style": 0
     }
 }
