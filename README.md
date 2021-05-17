@@ -1,6 +1,6 @@
 # Favorite artist albums app
 
-### This is a very simple app for displaying the albums of my 'favorite' artist.
+### This is an app for displaying the albums of my 'favorite' artist.
 
 The problem is I don't have just one favorite artist so there's a button to search for and switch to another artist when I change my mind.
 
