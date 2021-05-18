@@ -1,5 +1,5 @@
 import React from 'react';
-import './InvalidError.css';
+import './Error.css';
 
 function InvalidError() {
   return (

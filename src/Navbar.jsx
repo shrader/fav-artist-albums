@@ -25,10 +25,10 @@ function Navbar({ artistName, artistLink, setCurrArtist }) {
           <h4>
             <a className="nav-link active" href={artistLink}>{artistName}</a>
           </h4>
-          <div className="d-flex">
+          <form onSubmit={handleSubmit} className="d-flex">
             <input className="me-sm-2 nav-form" id="artist-input" name="name" value={inputValue} onChange={handleChange} type="text" placeholder="Artist Name" />
             <button type="button" onClick={handleSubmit} className="btn btn-success nav-form">Change Artist</button>
-          </div>
+          </form>
         </div>
       </nav>
     </div>
