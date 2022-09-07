@@ -1,5 +1,5 @@
 # Favorite artist albums app
-
+### See it live [https://shrader.github.io/fav-artist-albums](https://shrader.github.io/fav-artist-albums)
 ### This is an app for displaying the albums of my 'favorite' artist.
 
 The problem is I don't have just one favorite artist so there's a button to search for and switch to another artist when I change my mind.
@@ -56,10 +56,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-
-## Learn More
-
-## Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
